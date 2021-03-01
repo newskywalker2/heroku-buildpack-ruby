@@ -1,4 +1,4 @@
-name: Check Changelog
+env:name: Check Changelog
 
 on:
  pull_request:
